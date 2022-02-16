@@ -249,6 +249,7 @@ h1, h2, h3, p {
 
 @media (max-width: 768px) {
     .header {
+        min-height: 30px;
         display: flex;
         align-items: center;
         padding-left: 20px;
